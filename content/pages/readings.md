@@ -104,7 +104,7 @@ Equity and Income Distribution
 
 Parkin. Chapters 14 and 15.
 
-Council of Economic Advisers. "Inequality and Economic Rewards." Chapter 5 in Economic Report of the President. Washington, DC: U.S. Government Printing Office, 1997. Available at the Web site of the [Budget of the United States Government: Fiscal Year 1998 (PDF)](https://fraser.stlouisfed.org/title/budget-united-states-government-54/fiscal-year-1998-19048).
+Council of Economic Advisers. "Inequality and Economic Rewards." Chapter 5 in Economic Report of the President. Washington, DC: U.S. Government Printing Office, 1997. Available at the Web site of the {{% resource_link "7d85b912-8fde-44ed-b42c-4aefcc526132" "Budget of the United States Government: Fiscal Year 1998 (PDF)" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
  
